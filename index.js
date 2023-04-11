@@ -12,5 +12,5 @@ const showData = (data) => {
   for (let index = 0; index < data.length; index++) {
     body += `<tr><td>${data[index].id}</td><td>${data[index].name}</td><td>${data[index].apellido}</td><td>${data[index].city}</td><td>${data[index].state}</td></tr>`;
   }
-  document.querySelector(".tabla").innerHTML = body;
+  document.querySelector("#tabla").innerHTML = body;
 };
