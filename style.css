@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: cornflowerblue;
+}
+.tabla{
+    border: solid 1px black;
+}
+table{
+    color:brown;
+    font-size: 20px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+thead{
+    background: gray;
+}
+th{
+    padding: 20px 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: solid 1px black;
+}
+td{
+    padding: 15px;
+    border-bottom: solid 1px gray;
+    text-align: center;
+    border: solid 1px black;
+}
