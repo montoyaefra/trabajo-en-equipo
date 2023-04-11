@@ -1,0 +1,1 @@
+Hola, soy Alan, soy estudiante de programacion en Funval, vivo en Tamaulipas, soltero, estoy por finalizar la universidad como Ingeniero Mecatronico. Me gusta la musica EDM, el rock y el heavy metal. Mi comida favorita es la pizza. Soy miembro de la Iglesia de Jesucristo de los Santos de los Ultimos Dias, serví como misionero por 2 años en Sinaloa.
